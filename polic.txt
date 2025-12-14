@@ -1,0 +1,5 @@
+// executy polilcy  in vs code
+
+1.Get-ExecutionPolicy
+2.Set-ExecutionPolicy unrestricted
+
