@@ -3,3 +3,5 @@
 1.Get-ExecutionPolicy
 2.Set-ExecutionPolicy unrestricted
 
+3.Get-ExecutionPolicy
+
