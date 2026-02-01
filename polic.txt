@@ -1,4 +1,4 @@
-// executy polilcy  in vs code
+// executy polilcy  in vs code for node privacy
 
 1.Get-ExecutionPolicy
 2.Set-ExecutionPolicy unrestricted
