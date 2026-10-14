@@ -1,7 +1,7 @@
 // executy polilcy  in vs code for node privacy
 
 1.Get-ExecutionPolicy
-2.Set-ExecutionPolicy unrestricted
+2.Set-ExecutionPolicy RemoteSigned
 
 3.Get-ExecutionPolicy
 
